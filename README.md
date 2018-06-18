@@ -1,9 +1,11 @@
-##### About
+### About
 
 This webpage is a collection of my interests and projects in the fields of social network analysis, data science, text analysis, and machine learning. 
 
 <b><i> bio </i></b> 
+
 ![profile_pic](http://res.cloudinary.com/djemws8d8/image/upload/c_scale,w_150/v1527602031/KakaoTalk_20180529_225037917.jpg)
+
 <b>Suengjae Hong (홍승재)</b>
 
 <b> [Resume](https://www.linkedin.com/in/suengjaehong/) (Linkedin)</b>
@@ -13,7 +15,7 @@ This webpage is a collection of my interests and projects in the fields of socia
 - [Instagram](https://www.instagram.com/suengj/)
 
 
-##### Table of Contents
+### Table of Contents
 <b> A Beginning Guide to... </b>
 - [R]()
 	- [R Basic](https://github.com/suengj/R_basic/blob/master/README.md): [more contents](https://github.com/suengj/R_basic)
@@ -68,4 +70,4 @@ This webpage is a collection of my interests and projects in the fields of socia
 
 <b> Website & Book Recommendations </b>
 
-##### Reference
+### Reference
