@@ -33,7 +33,7 @@ This webpage is a collection of my interests and projects in the fields of socia
 	- [Statistics]()
 	- [Mathematics]()
 - [Machine Learning]()
-	- [Basic](#Machine Learning Basic)
+	- [Basic]()
 
 
 <b> Research & Personal Project </b>
